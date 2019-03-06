@@ -1,4 +1,4 @@
-class Haproxy < Formula
+class HaproxyElcapitan < Formula
   desc "Reliable, high performance TCP/HTTP load balancer"
   homepage "https://www.haproxy.org/"
   url "https://www.haproxy.org/download/1.8/src/haproxy-1.8.19.tar.gz"
